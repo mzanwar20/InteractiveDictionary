@@ -1,0 +1,8 @@
+﻿  InteractiveDictionarycpp.cpp
+E:\GoogleDrive\SFSU\CSC 340\Assignment 03\Assignment 3\InteractiveDictionary\InteractiveDictionarycpp.cpp(242,29): warning C4018: '<': signed/unsigned mismatch
+E:\GoogleDrive\SFSU\CSC 340\Assignment 03\Assignment 3\InteractiveDictionary\InteractiveDictionarycpp.cpp(257,31): warning C4018: '<': signed/unsigned mismatch
+E:\GoogleDrive\SFSU\CSC 340\Assignment 03\Assignment 3\InteractiveDictionary\InteractiveDictionarycpp.cpp(332,20): warning C4018: '<': signed/unsigned mismatch
+E:\GoogleDrive\SFSU\CSC 340\Assignment 03\Assignment 3\InteractiveDictionary\InteractiveDictionarycpp.cpp(343,20): warning C4018: '<': signed/unsigned mismatch
+E:\GoogleDrive\SFSU\CSC 340\Assignment 03\Assignment 3\InteractiveDictionary\InteractiveDictionarycpp.cpp(378,20): warning C4018: '<': signed/unsigned mismatch
+E:\GoogleDrive\SFSU\CSC 340\Assignment 03\Assignment 3\InteractiveDictionary\InteractiveDictionarycpp.cpp(481,20): warning C4018: '<': signed/unsigned mismatch
+  InteractiveDictionary.vcxproj -> E:\GoogleDrive\SFSU\CSC 340\Assignment 03\Assignment 3\InteractiveDictionary\Debug\InteractiveDictionary.exe
